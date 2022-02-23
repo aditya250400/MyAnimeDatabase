@@ -1,4 +1,4 @@
-alert('Welcome to My Anime Database!\n\n For the better experience, we suggest you to use the Desktop Device\n')
+alert('Welcome to MyAnimeDatabase!\n\n For the better experience, we suggest you to use the Desktop Device\n')
 
 
 
