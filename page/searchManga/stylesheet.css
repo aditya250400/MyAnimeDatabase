@@ -265,7 +265,7 @@ input {
 
 }*/
 .search1 .inputButton {
-    background-color: #f6f6f6;
+    background-color: #2e51a2;
     border: #c3c3c3 1px solid;
     border-radius: 0 8px 8px 0;
     color: #2e51a2;
@@ -276,7 +276,11 @@ input {
     font-weight: 700;
     font-weight: 900;
     height: 55px;
-    width: 50px;
+    width: 80px;
+}
+.searchh {
+  color: white;
+  margin-top: 12px;
 }
 .inputText {
   font-size: 18px;
